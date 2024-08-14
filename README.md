@@ -14,5 +14,7 @@ Este es un proyecto simple de simulación de cajero automatico, desarrollado con
      cd clase2php
   ```
 3. Copia los archivos al directorio de xampp /opt/lamp/hdocs o laragon /laragon/www/
-4. Inicia el servidor APACHE
-5. ingresa a http://127.0.0.1 
+   
+5. Inicia el servidor APACHE
+   
+7. ingresa a http://127.0.0.1 
